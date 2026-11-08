@@ -1,0 +1,6 @@
+{
+  "name": "Texas Maid Cleaning Solutions",
+  "description": "Professional residential and deep cleaning services across Texas. Open 24 hours, 5.0-star rated. Women-owned, Latino-owned, and LGBTQ+ friendly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
